@@ -1,3 +1,8 @@
+<picture>
+<img src="/images/ventasusd_esp.png" width="900">
+</picture>
+
+
 # Capacitación Gobernanza de Datos - GCBA
 
 ## Data Cleaning, o Limpieza de Datos
